@@ -2,8 +2,6 @@
 
 ## Live Link: https://nine-texture.surge.sh/
 
-## Document: https://github.com/.../blob/main/Batch-10_Assignment-08.pdf
-
 ## React Fundamental Concepts:
 1. Component
 2. useState
