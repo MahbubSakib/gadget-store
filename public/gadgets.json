@@ -1,0 +1,167 @@
+[
+    {
+        "product_id": "1",
+        "product_title": "Dell XPS",
+        "product_image": "https://i.ibb.co.com/mBbtTW4/Dell-XPS-13.jpg",
+        "category": "Laptop",
+        "price": 939.00,
+        "description": "13-inch laptop with a stunning display and high-performance capabilities.",
+        "Specification": ["Intel i7", "16GB RAM", "512GB SSD"],
+        "availability": "In Stock",
+        "rating": 4
+    },
+    {
+        "product_id": "2",
+        "product_title": "MacBook 16",
+        "product_image": "https://i.ibb.co.com/vQ11Y0C/Mac-Book-Pro-16.jpg",
+        "category": "Laptop",
+        "price": 2399.00,
+        "description": "Powerful laptop with an M1 Pro chip, ideal for professionals.",
+        "Specification": ["Apple M1 Pro", "16GB RAM", "1TB SSD"],
+        "availability": "In Stock",
+        "rating": 4
+    },
+    {
+        "product_id": "3",
+        "product_title": "Samsung Galaxy S23",
+        "product_image": "https://i.ibb.co.com/V2DRWmW/Samsung-Galaxy-S23.jpg",
+        "category": "Phones",
+        "price": 719.00,
+        "description": "Premium Android smartphone with high-end camera and performance.",
+        "Specification": ["Snapdragon 8 Gen 2", "8GB RAM", "128GB Storage"],
+        "availability": "In Stock",
+        "rating": 5
+    },
+    {
+        "product_id": "4",
+        "product_title": "iPhone 15",
+        "product_image": "https://i.ibb.co.com/zZgrnQ9/i-Phone-15.jpg",
+        "category": "Iphone",
+        "price": 929.00,
+        "description": "Latest iPhone with A17 chip and advanced camera capabilities.",
+        "Specification": ["A17 Chip", "6.1-inch OLED Display", "128GB Storage"],
+        "availability": "In Stock",
+        "rating": 5
+    },
+    {
+        "product_id": "5",
+        "product_title": "Apple Watch Series 9",
+        "product_image": "https://i.ibb.co.com/180kCdX/Apple-Watch-Series-9.jpg",
+        "category": "Smart Watch",
+        "price": 392.00,
+        "description": "Newest Apple Watch with health tracking and fast performance.",
+        "Specification": ["S9 Chip", "Always-On Display", "GPS"],
+        "availability": "In Stock",
+        "rating": 4
+    },
+    {
+        "product_id": "6",
+        "product_title": "HP Spec x360",
+        "product_image": "https://i.ibb.co.com/kDmC2mH/HP-Spectre-x360.jpg",
+        "category": "Laptop",
+        "price": 1159.00,
+        "description": "Convertible laptop with touchscreen and long battery life.",
+        "Specification": ["Intel i5", "8GB RAM", "256GB SSD"],
+        "availability": "In Stock",
+        "rating": 5
+    },
+    {
+        "product_id": "7",
+        "product_title": "Google Pixel 7",
+        "product_image": "https://i.ibb.co.com/wKWTcHM/Google-Pixel-7.jpg",
+        "category": "Phones",
+        "price": 679.00,
+        "description": "Google's latest phone with amazing camera features and clean Android experience.",
+        "Specification": ["Google Tensor G2", "8GB RAM", "128GB Storage"],
+        "availability": "In Stock",
+        "rating": 5
+    },
+    {
+        "product_id": "8",
+        "product_title": "Lenovo X1 Carbon",
+        "product_image": "https://i.ibb.co.com/MBwMvNR/Lenovo-Think-Pad-X1-Carbon.jpg",
+        "category": "Laptop",
+        "price": 1499.00,
+        "description": "Business laptop with rugged design and excellent keyboard.",
+        "Specification": ["Intel i7", "16GB RAM", "1TB SSD"],
+        "availability": "In Stock",
+        "rating": 5
+    },
+    {
+        "product_id": "9",
+        "product_title": "Samsung Watch5",
+        "product_image": "https://i.ibb.co.com/qxvLTTD/Samsung-Galaxy-Watch5.jpg",
+        "category": "Smart Watch",
+        "price": 279.00,
+        "description": "Stylish smartwatch with advanced health tracking features.",
+        "Specification": ["1.4-inch Display", "Wear OS", "GPS"],
+        "availability": "In Stock",
+        "rating": 4
+    },
+    {
+        "product_id": "10",
+        "product_title": "iPhone 14 Pro",
+        "product_image": "https://i.ibb.co.com/6B687XX/i-Phone-14-Pro.jpg",
+        "category": "Iphone",
+        "price": 1099.00,
+        "description": "High-end iPhone with ProMotion display and advanced photography features.",
+        "Specification": ["A16 Chip", "6.1-inch OLED", "256GB Storage"],
+        "availability": "In Stock",
+        "rating": 4
+    },
+    {
+        "product_id": "11",
+        "product_title": "OnePlus 11",
+        "product_image": "https://i.ibb.co.com/xM346Gr/One-Plus-11.jpg",
+        "category": "Phones",
+        "price": 649.00,
+        "description": "Flagship killer phone with great performance and fast charging.",
+        "Specification": ["Snapdragon 8 Gen 2", "12GB RAM", "256GB Storage"],
+        "availability": "In Stock",
+        "rating": 4
+    },
+    {
+        "product_id": "12",
+        "product_title": "Asus ROG G14",
+        "product_image": "https://i.ibb.co.com/nLhJTm5/Asus-ROG-Zephyrus-G14.jpg",
+        "category": "Laptop",
+        "price": 1599.00,
+        "description": "Compact gaming laptop with powerful internals and unique design.",
+        "Specification": ["AMD Ryzen 9", "16GB RAM", "1TB SSD"],
+        "availability": "In Stock",
+        "rating": 4
+    },
+    {
+        "product_id": "13",
+        "product_title": "Apple Watch SE",
+        "product_image": "https://i.ibb.co.com/SRNSRcB/Apple-Watch-SE.jpg",
+        "category": "Smart Watch",
+        "price": 279.00,
+        "description": "Affordable Apple Watch with essential features.",
+        "Specification": ["S5 Chip", "Retina Display", "Water Resistant"],
+        "availability": "In Stock",
+        "rating": 5
+    },
+    {
+        "product_id": "14",
+        "product_title": "Sony Xperia 5 IV",
+        "product_image": "https://i.ibb.co.com/pPLL06N/Sony-Xperia-5-IV.jpg",
+        "category": "Phones",
+        "price": 979.00,
+        "description": "Compact Android phone with Sony's professional camera technology.",
+        "Specification": ["Snapdragon 8 Gen 1", "8GB RAM", "128GB Storage"],
+        "availability": "In Stock",
+        "rating": 5
+    },
+    {
+        "product_id": "15",
+        "product_title": "Acer Nitro 5",
+        "product_image": "https://i.ibb.co.com/ZW27FDN/acer.jpg",
+        "category": "Laptop",
+        "price": 989.00,
+        "description": "13-inch laptop with a stunning display and high-performance capabilities.",
+        "Specification": ["Intel i7", "16GB RAM", "512GB SSD"],
+        "availability": "In Stock",
+        "rating": 4
+    }
+]
