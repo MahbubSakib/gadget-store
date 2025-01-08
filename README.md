@@ -11,9 +11,9 @@
 6. Routing
 7. Map Function
 
-##  I have used local storage for handling and managing data
+##  Used local storage for handling and managing data
 
-## 5 features of the website
+## Features of the website
 1. Can see the details of each gadget.
 2. Can add a gadget to the cart.
 3. Can add a gadget to the wishlist.
